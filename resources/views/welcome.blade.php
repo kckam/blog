@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Laravel 5 YEAH</div>
+				<div class="title">Laravel 5 YEAH 2</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
 		</div>
